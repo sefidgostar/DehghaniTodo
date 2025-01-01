@@ -1,0 +1,21 @@
+@model DehghaniTodoApp.Models.TodoTask
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Task Details";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">@Model.Title</h1>
+
+    <p class="lead">@Model.Description</p>
+    
+    <p><strong>Status:</strong> @(Model.IsCompleted ? "Completed" : "Pending")</p>
+
+    @if (!Model.IsCompleted)
+    {
+        <form method="post" action="@Url.Action("Complete", "Task", new { id = Model.Id })">
+            <button type="submit" class="btn btn-success">Mark as Completed</button>
+        </form>
+    }
+</div>

@@ -1,0 +1,88 @@
+/* Base font size */
+html {
+  font-size: 14px;
+  position: relative;
+  min-height: 100%;
+  background: linear-gradient(120deg, #fff8f0, #ffe6e0); /* Subtle whitish-orangish gradient */
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+/* Remove default margin */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  background: linear-gradient(120deg, #fff8f0, #ffe6e0);
+}
+
+/* Buttons with more prominent orangish-redish-pinkish coloring */
+.btn {
+  background-color: #ff6b6b; /* Vibrant reddish-pink */
+  color: white;
+  border: none;
+  padding: 0.75rem 1.25rem;
+  border-radius: 4px;
+  transition: background-color 0.3s ease, box-shadow 0.2s ease;
+}
+
+.btn:hover, .btn:focus {
+  background-color: #ff4c4c; /* Slightly darker on hover/focus */
+  box-shadow: 0 0 8px rgba(255, 107, 107, 0.7);
+}
+
+.btn:active {
+  background-color: #e63939; /* Even darker when active */
+  box-shadow: none;
+}
+
+/* Forms and inputs with subtle focus highlights */
+.form-floating > .form-control-plaintext::placeholder,
+.form-floating > .form-control::placeholder {
+  color: #bbb;
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder,
+.form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+.form-control {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0.5rem;
+}
+
+.form-control:focus {
+  border-color: #ff6b6b;
+  box-shadow: 0 0 4px rgba(255, 107, 107, 0.5);
+}
+
+/* Links */
+a {
+  color: #ff6b6b;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover, a:focus {
+  color: #ff4c4c;
+}
+
+/* Footer */
+footer {
+  background-color: #fff8f0;
+  color: #555;
+  text-align: center;
+  padding: 20px 0;
+  border-top: 1px solid #ddd;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
