@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DC3Xe0vYpKwAQqU6wLMLHO6FI1c6C509ZamgB5SP0zQ=",
+  "Hash": "yFH+DMsMVxutIgu9SVx1fbH6wmHezrXNoyednQF2Oe4=",
   "Source": "DehghaniTodoApp",
   "BasePath": "_content/DehghaniTodoApp",
   "Mode": "Default",
@@ -1235,12 +1235,12 @@
       "OriginalItemSpec": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/we54cjbm6r-o68r4vjoau.gz",
+      "Identity": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/we54cjbm6r-0qan8tmw2d.gz",
       "SourceId": "DehghaniTodoApp",
       "SourceType": "Discovered",
       "ContentRoot": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/DehghaniTodoApp",
-      "RelativePath": "css/site#[.{fingerprint=o68r4vjoau}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=0qan8tmw2d}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1249,8 +1249,8 @@
       "RelatedAsset": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8857ae9f6k",
-      "Integrity": "yFfi20eSJdLeKqKEQ+ugYuWUuTsF0uUfbhHWjNkBrlo=",
+      "Fingerprint": "jieux3xxwm",
+      "Integrity": "+6HClIbgmXNq92lfiCSozHTOKLrz6E42/G0NzlBRgVQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/wwwroot/css/site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "o68r4vjoau",
-      "Integrity": "0A12TwPCZvOFWfkR0/MZpqsVCnxnh2mkMPPuiLDmPOM=",
+      "Fingerprint": "0qan8tmw2d",
+      "Integrity": "CJJrtk31E+YhstGxCYO0WnB/J1g3UnVeb1hOydh2zm8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.css",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/we54cjbm6r-o68r4vjoau.gz",
+      "Route": "css/site.0qan8tmw2d.css",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/we54cjbm6r-0qan8tmw2d.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001331557923"
+          "Quality": "0.001029866117"
         }
       ],
       "ResponseHeaders": [
@@ -2744,19 +2744,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "750"
+          "Value": "970"
         },
         {
           "Name": "ETag",
-          "Value": "\"yFfi20eSJdLeKqKEQ+ugYuWUuTsF0uUfbhHWjNkBrlo=\""
+          "Value": "\"+6HClIbgmXNq92lfiCSozHTOKLrz6E42/G0NzlBRgVQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 08:54:52 GMT"
+          "Value": "Wed, 01 Jan 2025 12:38:32 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2772,18 +2772,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0A12TwPCZvOFWfkR0/MZpqsVCnxnh2mkMPPuiLDmPOM=\""
+          "Value": "W/\"CJJrtk31E+YhstGxCYO0WnB/J1g3UnVeb1hOydh2zm8=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "0qan8tmw2d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-0A12TwPCZvOFWfkR0/MZpqsVCnxnh2mkMPPuiLDmPOM="
+          "Value": "sha256-CJJrtk31E+YhstGxCYO0WnB/J1g3UnVeb1hOydh2zm8="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/site.0qan8tmw2d.css",
       "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2793,7 +2801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1861"
+          "Value": "2576"
         },
         {
           "Name": "Content-Type",
@@ -2801,121 +2809,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0A12TwPCZvOFWfkR0/MZpqsVCnxnh2mkMPPuiLDmPOM=\""
+          "Value": "\"CJJrtk31E+YhstGxCYO0WnB/J1g3UnVeb1hOydh2zm8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 08:54:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0A12TwPCZvOFWfkR0/MZpqsVCnxnh2mkMPPuiLDmPOM="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/we54cjbm6r-o68r4vjoau.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "750"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yFfi20eSJdLeKqKEQ+ugYuWUuTsF0uUfbhHWjNkBrlo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 08:54:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yFfi20eSJdLeKqKEQ+ugYuWUuTsF0uUfbhHWjNkBrlo="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.o68r4vjoau.css",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/we54cjbm6r-o68r4vjoau.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001331557923"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "750"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yFfi20eSJdLeKqKEQ+ugYuWUuTsF0uUfbhHWjNkBrlo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 08:54:52 GMT"
+          "Value": "Wed, 01 Jan 2025 12:38:32 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"0A12TwPCZvOFWfkR0/MZpqsVCnxnh2mkMPPuiLDmPOM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o68r4vjoau"
+          "Value": "0qan8tmw2d"
         },
         {
           "Name": "label",
@@ -2923,13 +2831,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0A12TwPCZvOFWfkR0/MZpqsVCnxnh2mkMPPuiLDmPOM="
+          "Value": "sha256-CJJrtk31E+YhstGxCYO0WnB/J1g3UnVeb1hOydh2zm8="
         }
       ]
     },
     {
-      "Route": "css/site.o68r4vjoau.css",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/wwwroot/css/site.css",
+      "Route": "css/site.0qan8tmw2d.css.gz",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/we54cjbm6r-0qan8tmw2d.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2938,7 +2846,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1861"
+          "Value": "970"
         },
         {
           "Name": "Content-Type",
@@ -2946,56 +2854,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0A12TwPCZvOFWfkR0/MZpqsVCnxnh2mkMPPuiLDmPOM=\""
+          "Value": "\"+6HClIbgmXNq92lfiCSozHTOKLrz6E42/G0NzlBRgVQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 08:54:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "o68r4vjoau"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0A12TwPCZvOFWfkR0/MZpqsVCnxnh2mkMPPuiLDmPOM="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.o68r4vjoau.css.gz",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/we54cjbm6r-o68r4vjoau.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "750"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yFfi20eSJdLeKqKEQ+ugYuWUuTsF0uUfbhHWjNkBrlo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 08:54:52 GMT"
+          "Value": "Wed, 01 Jan 2025 12:38:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +2876,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o68r4vjoau"
+          "Value": "0qan8tmw2d"
         },
         {
           "Name": "label",
@@ -3021,7 +2884,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yFfi20eSJdLeKqKEQ+ugYuWUuTsF0uUfbhHWjNkBrlo="
+          "Value": "sha256-+6HClIbgmXNq92lfiCSozHTOKLrz6E42/G0NzlBRgVQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/we54cjbm6r-0qan8tmw2d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001029866117"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "970"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+6HClIbgmXNq92lfiCSozHTOKLrz6E42/G0NzlBRgVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 12:38:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CJJrtk31E+YhstGxCYO0WnB/J1g3UnVeb1hOydh2zm8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CJJrtk31E+YhstGxCYO0WnB/J1g3UnVeb1hOydh2zm8="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2576"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CJJrtk31E+YhstGxCYO0WnB/J1g3UnVeb1hOydh2zm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 12:38:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CJJrtk31E+YhstGxCYO0WnB/J1g3UnVeb1hOydh2zm8="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/we54cjbm6r-0qan8tmw2d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+6HClIbgmXNq92lfiCSozHTOKLrz6E42/G0NzlBRgVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 12:38:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+6HClIbgmXNq92lfiCSozHTOKLrz6E42/G0NzlBRgVQ="
         }
       ]
     },

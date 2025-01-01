@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/DehghaniTodoApp/css/site.0qan8tmw2d.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0qan8tmw2d"},{"Name":"integrity","Value":"sha256-CJJrtk31E\u002BYhstGxCYO0WnB/J1g3UnVeb1hOydh2zm8="},{"Name":"label","Value":"_content/DehghaniTodoApp/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2576"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CJJrtk31E\u002BYhstGxCYO0WnB/J1g3UnVeb1hOydh2zm8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 01 Jan 2025 12:38:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DehghaniTodoApp/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0A12TwPCZvOFWfkR0/MZpqsVCnxnh2mkMPPuiLDmPOM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1861"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220A12TwPCZvOFWfkR0/MZpqsVCnxnh2mkMPPuiLDmPOM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 08:54:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/DehghaniTodoApp/css/site.o68r4vjoau.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o68r4vjoau"},{"Name":"integrity","Value":"sha256-0A12TwPCZvOFWfkR0/MZpqsVCnxnh2mkMPPuiLDmPOM="},{"Name":"label","Value":"_content/DehghaniTodoApp/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1861"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220A12TwPCZvOFWfkR0/MZpqsVCnxnh2mkMPPuiLDmPOM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 08:54:52 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CJJrtk31E\u002BYhstGxCYO0WnB/J1g3UnVeb1hOydh2zm8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2576"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CJJrtk31E\u002BYhstGxCYO0WnB/J1g3UnVeb1hOydh2zm8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 01 Jan 2025 12:38:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DehghaniTodoApp/DehghaniTodoApp.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\DehghaniTodoApp.xwsqf4hksu.bundle.scp.css'))</AssetFile>

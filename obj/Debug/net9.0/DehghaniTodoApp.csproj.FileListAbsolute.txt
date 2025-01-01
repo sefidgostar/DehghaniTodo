@@ -210,4 +210,5 @@
 /home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/DehghaniTodoApp.pdb
 /home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/DehghaniTodoApp.genruntimeconfig.cache
 /home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/ref/DehghaniTodoApp.dll
-/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/we54cjbm6r-o68r4vjoau.gz
+/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/DehghaniTodoApp.sourcelink.json
+/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/we54cjbm6r-0qan8tmw2d.gz
