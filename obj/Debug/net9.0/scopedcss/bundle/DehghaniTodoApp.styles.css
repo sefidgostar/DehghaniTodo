@@ -1,49 +1,86 @@
 /* _content/DehghaniTodoApp/Pages/Shared/_Layout.cshtml.rz.scp.css */
-/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
+/* Refer to https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification for details on configuring this project to bundle and minify static web assets */
 
+/* Navbar brand: center text and ensure proper word wrapping */
 a.navbar-brand[b-az51h6gcs1] {
   white-space: normal;
   text-align: center;
-  word-break: break-all;
+  word-break: break-word; /* Change to break-word for better word wrapping */
 }
 
+/* Link color for default links */
 a[b-az51h6gcs1] {
   color: #0077cc;
+  text-decoration: none; /* Ensure no underline on links */
 }
 
+a:hover[b-az51h6gcs1] {
+  text-decoration: underline; /* Add underline on hover for links */
+}
+
+/* Button primary styling */
 .btn-primary[b-az51h6gcs1] {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
+  transition: background-color 0.3s ease; /* Smooth hover transition */
 }
 
-.nav-pills .nav-link.active[b-az51h6gcs1], .nav-pills .show > .nav-link[b-az51h6gcs1] {
+.btn-primary:hover[b-az51h6gcs1] {
+  background-color: #155a8a; /* Darker shade for hover */
+  border-color: #124d73; /* Darker border on hover */
+}
+
+/* Active navigation link styling */
+.nav-pills .nav-link.active[b-az51h6gcs1], 
+.nav-pills .show > .nav-link[b-az51h6gcs1] {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
 
-.border-top[b-az51h6gcs1] {
-  border-top: 1px solid #e5e5e5;
-}
-.border-bottom[b-az51h6gcs1] {
-  border-bottom: 1px solid #e5e5e5;
+/* Borders */
+.border-top[b-az51h6gcs1], .border-bottom[b-az51h6gcs1] {
+  border-color: #e5e5e5;
+  border-style: solid;
 }
 
+.border-top[b-az51h6gcs1] {
+  border-width: 1px;
+}
+
+.border-bottom[b-az51h6gcs1] {
+  border-width: 1px;
+}
+
+/* Box-shadow for subtle depth */
 .box-shadow[b-az51h6gcs1] {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
 }
 
+/* Button accept policy styling */
 button.accept-policy[b-az51h6gcs1] {
   font-size: 1rem;
   line-height: inherit;
+  border: none;
+  background-color: transparent;
+  color: #1b6ec2;
+  cursor: pointer;
 }
 
+button.accept-policy:hover[b-az51h6gcs1] {
+  color: #155a8a; /* Slightly darker shade on hover */
+}
+
+/* Footer styling */
 .footer[b-az51h6gcs1] {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+  background-color: #f8f9fa; /* Light background for footer */
+  text-align: center; /* Center text in footer */
+  padding: 0 1rem;
+  box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow on footer */
 }

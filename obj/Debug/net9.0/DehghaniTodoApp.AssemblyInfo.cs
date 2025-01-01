@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DehghaniTodoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec65dc8e18d7377442c74d9ef7ceff14ac52f658")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdcdf661e4ade37229a64231e74d103b928bc770")]
 [assembly: System.Reflection.AssemblyProductAttribute("DehghaniTodoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DehghaniTodoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

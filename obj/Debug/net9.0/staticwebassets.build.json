@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yFH+DMsMVxutIgu9SVx1fbH6wmHezrXNoyednQF2Oe4=",
+  "Hash": "heuLEd9HwltFEXYLgcfvhTu8UwiRdljzvCrOPHhcmiE=",
   "Source": "DehghaniTodoApp",
   "BasePath": "_content/DehghaniTodoApp",
   "Mode": "Default",
@@ -311,12 +311,12 @@
       "OriginalItemSpec": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/8b2sero9ep-xwsqf4hksu.gz",
+      "Identity": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/8b2sero9ep-sa3hmf1m6n.gz",
       "SourceId": "DehghaniTodoApp",
       "SourceType": "Computed",
       "ContentRoot": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/DehghaniTodoApp",
-      "RelativePath": "DehghaniTodoApp#[.{fingerprint=xwsqf4hksu}]?.styles.css.gz",
+      "RelativePath": "DehghaniTodoApp#[.{fingerprint=sa3hmf1m6n}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -325,8 +325,8 @@
       "RelatedAsset": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/scopedcss/bundle/DehghaniTodoApp.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pijn8lo6zk",
-      "Integrity": "kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y=",
+      "Fingerprint": "oo3ullvo3j",
+      "Integrity": "KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/scopedcss/bundle/DehghaniTodoApp.styles.css"
@@ -353,12 +353,12 @@
       "OriginalItemSpec": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/9ep5slzmxb-xwsqf4hksu.gz",
+      "Identity": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/9ep5slzmxb-sa3hmf1m6n.gz",
       "SourceId": "DehghaniTodoApp",
       "SourceType": "Computed",
       "ContentRoot": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/DehghaniTodoApp",
-      "RelativePath": "DehghaniTodoApp#[.{fingerprint=xwsqf4hksu}]!.bundle.scp.css.gz",
+      "RelativePath": "DehghaniTodoApp#[.{fingerprint=sa3hmf1m6n}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -367,8 +367,8 @@
       "RelatedAsset": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/scopedcss/projectbundle/DehghaniTodoApp.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pijn8lo6zk",
-      "Integrity": "kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y=",
+      "Fingerprint": "oo3ullvo3j",
+      "Integrity": "KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/scopedcss/projectbundle/DehghaniTodoApp.bundle.scp.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "xwsqf4hksu",
-      "Integrity": "H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo=",
+      "Fingerprint": "sa3hmf1m6n",
+      "Integrity": "DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/scopedcss/bundle/DehghaniTodoApp.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "xwsqf4hksu",
-      "Integrity": "H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo=",
+      "Fingerprint": "sa3hmf1m6n",
+      "Integrity": "DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/scopedcss/projectbundle/DehghaniTodoApp.bundle.scp.css"
@@ -2752,7 +2752,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Jan 2025 12:38:32 GMT"
+          "Value": "Wed, 01 Jan 2025 12:39:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2813,7 +2813,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Jan 2025 12:38:32 GMT"
+          "Value": "Wed, 01 Jan 2025 12:39:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2858,7 +2858,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Jan 2025 12:38:32 GMT"
+          "Value": "Wed, 01 Jan 2025 12:39:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2913,7 +2913,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Jan 2025 12:38:32 GMT"
+          "Value": "Wed, 01 Jan 2025 12:39:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2966,7 +2966,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Jan 2025 12:38:32 GMT"
+          "Value": "Wed, 01 Jan 2025 12:39:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3003,7 +3003,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Jan 2025 12:38:32 GMT"
+          "Value": "Wed, 01 Jan 2025 12:39:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3027,12 +3027,12 @@
     },
     {
       "Route": "DehghaniTodoApp.bundle.scp.css",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/9ep5slzmxb-xwsqf4hksu.gz",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/9ep5slzmxb-sa3hmf1m6n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001855287570"
+          "Quality": "0.001113585746"
         }
       ],
       "ResponseHeaders": [
@@ -3042,15 +3042,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "538"
+          "Value": "897"
         },
         {
           "Name": "ETag",
-          "Value": "\"kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y=\""
+          "Value": "\"KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 18:28:55 GMT"
+          "Value": "Wed, 01 Jan 2025 12:44:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3070,13 +3070,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo=\""
+          "Value": "W/\"DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo="
+          "Value": "sha256-DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898="
         }
       ]
     },
@@ -3091,7 +3091,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1084"
+          "Value": "2239"
         },
         {
           "Name": "Content-Type",
@@ -3099,11 +3099,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo=\""
+          "Value": "\"DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 18:28:55 GMT"
+          "Value": "Wed, 01 Jan 2025 12:44:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3113,13 +3113,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo="
+          "Value": "sha256-DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898="
         }
       ]
     },
     {
       "Route": "DehghaniTodoApp.bundle.scp.css.gz",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/9ep5slzmxb-xwsqf4hksu.gz",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/9ep5slzmxb-sa3hmf1m6n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3128,7 +3128,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "538"
+          "Value": "897"
         },
         {
           "Name": "Content-Type",
@@ -3136,11 +3136,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y=\""
+          "Value": "\"KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 18:28:55 GMT"
+          "Value": "Wed, 01 Jan 2025 12:44:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3158,18 +3158,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y="
+          "Value": "sha256-KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU="
         }
       ]
     },
     {
-      "Route": "DehghaniTodoApp.styles.css",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/8b2sero9ep-xwsqf4hksu.gz",
+      "Route": "DehghaniTodoApp.sa3hmf1m6n.bundle.scp.css",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/9ep5slzmxb-sa3hmf1m6n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001855287570"
+          "Quality": "0.001113585746"
         }
       ],
       "ResponseHeaders": [
@@ -3179,152 +3179,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "538"
+          "Value": "897"
         },
         {
           "Name": "ETag",
-          "Value": "\"kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y=\""
+          "Value": "\"KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 18:28:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo="
-        }
-      ]
-    },
-    {
-      "Route": "DehghaniTodoApp.styles.css",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/scopedcss/bundle/DehghaniTodoApp.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1084"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 18:28:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo="
-        }
-      ]
-    },
-    {
-      "Route": "DehghaniTodoApp.styles.css.gz",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/8b2sero9ep-xwsqf4hksu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "538"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 18:28:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y="
-        }
-      ]
-    },
-    {
-      "Route": "DehghaniTodoApp.xwsqf4hksu.bundle.scp.css",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/9ep5slzmxb-xwsqf4hksu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001855287570"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "538"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 18:28:55 GMT"
+          "Value": "Wed, 01 Jan 2025 12:44:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3344,13 +3207,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo=\""
+          "Value": "W/\"DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xwsqf4hksu"
+          "Value": "sa3hmf1m6n"
         },
         {
           "Name": "label",
@@ -3358,12 +3221,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo="
+          "Value": "sha256-DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898="
         }
       ]
     },
     {
-      "Route": "DehghaniTodoApp.xwsqf4hksu.bundle.scp.css",
+      "Route": "DehghaniTodoApp.sa3hmf1m6n.bundle.scp.css",
       "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/scopedcss/projectbundle/DehghaniTodoApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3373,7 +3236,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1084"
+          "Value": "2239"
         },
         {
           "Name": "Content-Type",
@@ -3381,11 +3244,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo=\""
+          "Value": "\"DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 18:28:55 GMT"
+          "Value": "Wed, 01 Jan 2025 12:44:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3395,7 +3258,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xwsqf4hksu"
+          "Value": "sa3hmf1m6n"
         },
         {
           "Name": "label",
@@ -3403,13 +3266,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo="
+          "Value": "sha256-DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898="
         }
       ]
     },
     {
-      "Route": "DehghaniTodoApp.xwsqf4hksu.bundle.scp.css.gz",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/9ep5slzmxb-xwsqf4hksu.gz",
+      "Route": "DehghaniTodoApp.sa3hmf1m6n.bundle.scp.css.gz",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/9ep5slzmxb-sa3hmf1m6n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3418,7 +3281,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "538"
+          "Value": "897"
         },
         {
           "Name": "Content-Type",
@@ -3426,11 +3289,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y=\""
+          "Value": "\"KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 18:28:55 GMT"
+          "Value": "Wed, 01 Jan 2025 12:44:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3448,7 +3311,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xwsqf4hksu"
+          "Value": "sa3hmf1m6n"
         },
         {
           "Name": "label",
@@ -3456,18 +3319,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y="
+          "Value": "sha256-KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU="
         }
       ]
     },
     {
-      "Route": "DehghaniTodoApp.xwsqf4hksu.styles.css",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/8b2sero9ep-xwsqf4hksu.gz",
+      "Route": "DehghaniTodoApp.sa3hmf1m6n.styles.css",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/8b2sero9ep-sa3hmf1m6n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001855287570"
+          "Quality": "0.001113585746"
         }
       ],
       "ResponseHeaders": [
@@ -3477,15 +3340,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "538"
+          "Value": "897"
         },
         {
           "Name": "ETag",
-          "Value": "\"kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y=\""
+          "Value": "\"KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 18:28:55 GMT"
+          "Value": "Wed, 01 Jan 2025 12:44:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3505,13 +3368,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo=\""
+          "Value": "W/\"DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xwsqf4hksu"
+          "Value": "sa3hmf1m6n"
         },
         {
           "Name": "label",
@@ -3519,12 +3382,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo="
+          "Value": "sha256-DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898="
         }
       ]
     },
     {
-      "Route": "DehghaniTodoApp.xwsqf4hksu.styles.css",
+      "Route": "DehghaniTodoApp.sa3hmf1m6n.styles.css",
       "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/scopedcss/bundle/DehghaniTodoApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3534,7 +3397,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1084"
+          "Value": "2239"
         },
         {
           "Name": "Content-Type",
@@ -3542,11 +3405,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo=\""
+          "Value": "\"DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 18:28:55 GMT"
+          "Value": "Wed, 01 Jan 2025 12:44:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3556,7 +3419,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xwsqf4hksu"
+          "Value": "sa3hmf1m6n"
         },
         {
           "Name": "label",
@@ -3564,13 +3427,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H9wgQPe6a3D354VD1+f9G10/bNYbWRrLtP/UwbAYwCo="
+          "Value": "sha256-DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898="
         }
       ]
     },
     {
-      "Route": "DehghaniTodoApp.xwsqf4hksu.styles.css.gz",
-      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/8b2sero9ep-xwsqf4hksu.gz",
+      "Route": "DehghaniTodoApp.sa3hmf1m6n.styles.css.gz",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/8b2sero9ep-sa3hmf1m6n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3579,7 +3442,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "538"
+          "Value": "897"
         },
         {
           "Name": "Content-Type",
@@ -3587,11 +3450,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y=\""
+          "Value": "\"KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 18:28:55 GMT"
+          "Value": "Wed, 01 Jan 2025 12:44:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3609,7 +3472,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xwsqf4hksu"
+          "Value": "sa3hmf1m6n"
         },
         {
           "Name": "label",
@@ -3617,7 +3480,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kT7P7BqsqI52aysFFwUnZjq6OeXlczkbxSA5vJvnw0Y="
+          "Value": "sha256-KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU="
+        }
+      ]
+    },
+    {
+      "Route": "DehghaniTodoApp.styles.css",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/8b2sero9ep-sa3hmf1m6n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001113585746"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 12:44:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898="
+        }
+      ]
+    },
+    {
+      "Route": "DehghaniTodoApp.styles.css",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/scopedcss/bundle/DehghaniTodoApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2239"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 12:44:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNN1eBnsyGX0cWnE91xUfChOs5Frpys4o/TnlEBY898="
+        }
+      ]
+    },
+    {
+      "Route": "DehghaniTodoApp.styles.css.gz",
+      "AssetFile": "/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/8b2sero9ep-sa3hmf1m6n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 12:44:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KAc35+qercIwRe5il7JyHL0MGiJjYpZjLXZkqIQgntU="
         }
       ]
     },

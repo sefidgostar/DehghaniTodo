@@ -193,8 +193,6 @@
 /home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/phpvqn4vcw-muycvpuwrr.gz
 /home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/tt5z2yv68l-87fc7y1x7t.gz
 /home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/nklh1ugxmv-mlv21k5csn.gz
-/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/8b2sero9ep-xwsqf4hksu.gz
-/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/9ep5slzmxb-xwsqf4hksu.gz
 /home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/staticwebassets.build.json
 /home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/staticwebassets.development.json
 /home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -212,3 +210,5 @@
 /home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/ref/DehghaniTodoApp.dll
 /home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/DehghaniTodoApp.sourcelink.json
 /home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/we54cjbm6r-0qan8tmw2d.gz
+/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/8b2sero9ep-sa3hmf1m6n.gz
+/home/bart/p/DehghaniTodoApp/DehghaniTodoApp/obj/Debug/net9.0/compressed/9ep5slzmxb-sa3hmf1m6n.gz
